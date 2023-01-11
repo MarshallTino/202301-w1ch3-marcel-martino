@@ -8,6 +8,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 .container {
   display: flex;
@@ -15,10 +16,20 @@ body {
 
 ul {
   list-style-type: none;
+  padding-left: 0%;
 }
 
 .lists {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+
+.nav-link-title {
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.nav-link {
+  text-decoration: none;
 }
