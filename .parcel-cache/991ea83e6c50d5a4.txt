@@ -1,4 +1,4 @@
-6436
+6447
 82C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\entities133179351421547249 1
 133C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj133179351425782744 0
 99C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\hash\package.json133179351418879490 0
@@ -24,7 +24,7 @@
 85C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\detect-libc133179351419170628 1
 92C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\timsort\LICENSE.md133179351418839220 0
 117C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\markdown-ansi\test\markdown-ansi.js133179351418754342 0
-73C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\package.json133179453957332741 0
+73C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\package.json133179460972436760 0
 98C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\yaml\dist\test-events.js133179351422980929 0
 139C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\brands\creative-commons-by.svg133179453930867254 0
 109C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\update-browserslist-db\package.json133179351419160511 0
@@ -41,7 +41,7 @@
 123C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\bold.svg133179453926816362 0
 90C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\path-is-absolute133179351418285068 1
 132C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\regular\hand-lizard.svg133179453937132733 0
-86C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome133179453910055069 1
+86C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome133179453910065117 1
 125C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\brands\apper.svg133179453925036915 0
 133C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\regular\chess-bishop.svg133179453929281826 0
 105C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\caniuse-lite\data\regions\AX.js133179351423353057 0
@@ -50,15 +50,15 @@
 132C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\regular\floppy-disk.svg133179453935711076 0
 131C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\book-medical.svg133179453926909130 0
 125C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts133179351421363866 0
-64C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\src133179451811022807 1
+64C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\src133179460972456812 1
 103C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\svgo\plugins\removeViewBox.js133179351423935771 0
-74C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\src\style.css133179457767224063 0
+74C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\src\style.css133179806161465855 0
 108C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\htmlnano\lib\modules\minifyJson.js133179351421440902 0
 129C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt133179351425772199 0
 125C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.umd.js.map133179351419150410 0
 114C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\lightningcss-win32-x64-msvc\package.json133179351417060920 0
 120C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\caniuse-lite\data\features\css-first-letter.js133179351425860799 0
-65C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist133179457876209172 1
+65C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist133179806637570995 1
 82C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\escalade133179351419718853 1
 85C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\fs.realpath133179351418715834 1
 108C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\mdn-data\css\selectors.schema.json133179351421681072 0
@@ -73,11 +73,11 @@
 92C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\yaml\dist\index.js133179351420077243 0
 113C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\css-tree\lib\common\OffsetToLocation.js133179351424811314 0
 103C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\watcher\index.js.flow133179351421178510 0
-78C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\package-lock.json133179453957302665 0
+78C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\package-lock.json133179460972416247 0
 95C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\terser\bin\terser.mjs133179351424045263 0
 86C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\browserslist133179351420307441 1
 107C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\htmlnano\docs\docs\040-presets.md133179351423852678 0
-75C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\src\index.html133179451893131423 0
+75C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\src\index.html133179516207515756 0
 99C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\browserslist\package.json133179351419841014 0
 111C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@swc\helpers\src\_async_generator.mjs133179351424822065 0
 96C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\ansi-styles\index.d.ts133179351418922719 0
@@ -701,6 +701,7 @@
 136C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\share-from-square.svg133179453946550157 0
 91C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\yaml\types\set.js133179351422939869 0
 104C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\runtime-js\lib\helpers133179351421893100 1
+93C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-solid-900.57a8ac1f.woff2133179806354744657 0
 106C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\nth-check\lib\esm\parse.d.ts.map133179351421155563 0
 94C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\terser\lib\output.js133179351423322933 0
 108C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\lines-and-columns\build\index.d.ts133179351418922719 0
@@ -1807,6 +1808,7 @@
 129C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\ear-listen.svg133179453932334128 0
 102C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\posthtml-render\changelog.md133179351418643220 0
 94C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\posthtml-render\dist133179351419326943 1
+84C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\index.253abd6e.css133179806365914782 0
 97C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\posthtml-render\license133179351417040788 0
 105C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\caniuse-lite\data\regions\GQ.js133179351428331240 0
 102C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\posthtml-render\package.json133179351418100421 0
@@ -2283,7 +2285,7 @@
 105C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\lmdb\dependencies\lz4\lib\lz4.c133179351422452066 0
 121C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\transformer-json\lib\JSONTransformer.js133179351417725033 0
 105C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\lmdb\dependencies\lz4\lib\lz4.h133179351425025891 0
-92C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-brands-400.4257408a.ttf133179457874509820 0
+92C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-brands-400.4257408a.ttf133179806635481302 0
 128C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\runtime-browser-hmr\lib\loaders\hmr-runtime.js133179351417913081 0
 110C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\lmdb\dependencies\lz4\lib\lz4frame.h133179351425071869 0
 123C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest2.c133179351424100822 0
@@ -2548,6 +2550,7 @@
 124C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\regular\eye.svg133179453932773055 0
 128C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\turn-down.svg133179453951163083 0
 93C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\packager-js133179351421610282 1
+91C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-solid-900.754eb2f2.ttf133179806354786017 0
 136C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\010-introduction.md133179351423535561 0
 129C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\020-usage.md133179351423687232 0
 111C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@swc\helpers\src\_define_property.mjs133179351425441803 0
@@ -2725,7 +2728,7 @@
 92C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\runtime-js133179351423041231 1
 107C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\utils\test\config.test.js133179351420693490 0
 99C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\dotenv\lib\cli-options.js133179351419339690 0
-93C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-regular-400.1ca1d6f1.ttf133179457874488479 0
+93C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-regular-400.1ca1d6f1.ttf133179806635375980 0
 99C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\dotenv\lib\env-options.js133179351419581798 0
 98C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\utils\test\input133179351423377912 1
 86C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\domutils\lib133179351421971938 1
@@ -3634,7 +3637,7 @@
 147C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\bar.js133179351420198168 0
 120C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\caniuse-lite\data\features\css-nth-child-of.js133179351426331066 0
 123C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\caniuse-lite\data\features\css-optional-pseudo.js133179351426352413 0
-91C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-solid-900.2bef98e0.ttf133179457874563630 0
+91C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-solid-900.2bef98e0.ttf133179806635661766 0
 124C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\caniuse-lite\data\features\css-overflow-overlay.js133179351426372714 0
 116C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\caniuse-lite\data\features\css-overflow.js133179351426383070 0
 127C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\caniuse-lite\data\features\css-overscroll-behavior.js133179351426393325 0
@@ -4009,6 +4012,7 @@
 113C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\caniuse-lite\data\features\xhtmlsmil.js133179351435734835 0
 131C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\regular\circle-dot.svg133179453929685355 0
 93C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\buffer-from\LICENSE133179351416945412 0
+94C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-brands-400.a0641c0f.woff2133179806354714578 0
 95C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\buffer-from\readme.md133179351418381287 0
 104C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\workers\lib\backend.js133179351417715002 0
 125C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\brands\linux.svg133179453940516861 0
@@ -4039,6 +4043,7 @@
 99C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\balanced-match\LICENSE.md133179351417955456 0
 124C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\cubes.svg133179453931185460 0
 98C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\balanced-match\README.md133179351418381287 0
+87C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\1600225.74c93ae9.avif133179806354683772 0
 93C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\ansi-styles\license133179351417030402 0
 98C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\ansi-styles\package.json133179351417996852 0
 101C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\transformer-postcss133179351420223042 1
@@ -4288,7 +4293,7 @@
 98C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\resolver-default133179351418585252 1
 101C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\runtime-browser-hmr133179351419971109 1
 104C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\runtime-service-worker133179351418585252 1
-84C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\index.2cdaf7bc.css133179457874877454 0
+84C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\index.2cdaf7bc.css133179806637448119 0
 92C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\source-map133179351424646319 1
 139C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\house-chimney-window.svg133179453938493547 0
 97C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\transformer-css133179351418680144 1
@@ -4423,7 +4428,7 @@
 123C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\tape.svg133179453949487937 0
 99C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\utils\src\glob.js133179351422058412 0
 101C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\utils\src\is-url.js133179351423460932 0
-92C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\challenge3.59712999.js.map133179457875232897 0
+92C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\challenge3.59712999.js.map133179806637295020 0
 105C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\utils\src\objectHash.js133179351423580679 0
 119C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\reporter-dev-server\src\types.js.flow133179351417747170 0
 94C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\hash\LICENSE133179351417096189 0
@@ -4696,7 +4701,7 @@
 100C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\optimizer-svgo\lib133179351417634798 1
 122C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\core\lib\requests\ParcelConfigRequest.js133179351425035965 0
 100C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\optimizer-svgo\src133179351418143160 1
-99C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-v4compatibility.fd23dd3a.woff2133179457874724330 0
+99C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-v4compatibility.fd23dd3a.woff2133179806635375980 0
 101C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\optimizer-image\lib133179351418052475 1
 117C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@parcel\core\test\fixtures\invalid-distpath133179351426206310 1
 100C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@lezer\lr\dist\decode.d.ts133179351419926429 0
@@ -5410,7 +5415,7 @@
 151C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\down-left-and-up-right-to-center.svg133179453931930475 0
 128C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\down-long.svg133179453931940535 0
 125C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\dragon.svg133179453931972655 0
-94C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-brands-400.55a67878.woff2133179457875628332 0
+94C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-brands-400.55a67878.woff2133179806635661766 0
 131C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\draw-polygon.svg133179453931982751 0
 132C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\droplet-slash.svg133179453932003055 0
 126C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\droplet.svg133179453932182379 0
@@ -5758,6 +5763,7 @@
 139C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\person-skiing-nordic.svg133179453944015893 0
 138C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\person-snowboarding.svg133179453944061130 0
 134C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\person-swimming.svg133179453944071302 0
+88C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\index.253abd6e.css.map133179806365986736 0
 129C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\brands\apple-pay.svg133179453925047676 0
 143C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\person-walking-with-cane.svg133179453944138057 0
 125C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\solid\person.svg133179453944148495 0
@@ -6068,7 +6074,7 @@
 136C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\regular\file-powerpoint.svg133179453934967659 0
 131C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\regular\file-video.svg133179453935030678 0
 132C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\regular\file-zipper.svg133179453935081816 0
-87C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\1600225.74b660f7.avif133179457874488479 0
+87C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\1600225.74b660f7.avif133179806635375980 0
 125C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\regular\file.svg133179453935103687 0
 124C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\regular\gem.svg133179453936213442 0
 131C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\regular\hand-peace.svg133179453937166605 0
@@ -6144,7 +6150,7 @@
 142C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\brands\creative-commons-nc-jp.svg133179453930887727 0
 139C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\brands\creative-commons-nc.svg133179453930897816 0
 143C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\brands\creative-commons-pd-alt.svg133179453930919718 0
-88C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\index.2cdaf7bc.css.map133179457874943934 0
+88C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\index.2cdaf7bc.css.map133179806637537527 0
 139C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\brands\creative-commons-pd.svg133179453930930988 0
 139C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\brands\creative-commons-sa.svg133179453930951606 0
 150C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\@fortawesome\fontawesome-free\svgs\brands\creative-commons-sampling-plus.svg133179453930962988 0
@@ -6430,8 +6436,13 @@
 87C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\.bin\svgo.cmd133179351436353376 0
 85C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\.bin\terser133179351436363427 0
 89C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\node_modules\.bin\terser.cmd133179351436363427 0
-88C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\challenge3.59712999.js133179457875192242 0
-95C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-regular-400.6b5e9a3a.woff2133179457874652821 0
-93C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-solid-900.45be5413.woff2133179457875638354 0
-97C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-v4compatibility.ff721ea1.ttf133179457874488479 0
-76C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\index.html133179457875909042 0
+88C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\challenge3.59712999.js133179806637204785 0
+92C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-brands-400.381ee61b.ttf133179806354714578 0
+95C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-regular-400.5bae157a.woff2133179806354683772 0
+95C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-regular-400.6b5e9a3a.woff2133179806635375980 0
+93C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-regular-400.981cdc6e.ttf133179806354683772 0
+93C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-solid-900.45be5413.woff2133179806635661766 0
+97C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-v4compatibility.232ac13e.ttf133179806354693797 0
+99C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-v4compatibility.c0440d6d.woff2133179806354683772 0
+97C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\fa-v4compatibility.ff721ea1.ttf133179806635375980 0
+76C:\Users\marce\Desktop\ISDI Coders\bootcamp\Week1\challenge3\dist\index.html133179806636934080 0
